@@ -1,0 +1,15 @@
+.container{
+    display: flex;    
+    flex-direction: 'row';
+    justify-content: space-between;
+    list-style: none;
+    margin-Left:20;
+}
+.nav__link{
+   margin-left: 2rem;
+   padding: 1rem 3rem;
+   background-color: #abb2bd;
+   border-radius: 5px;
+   font-size: larger;
+   cursor: pointer;
+}
