@@ -5,9 +5,8 @@ const App =() => {
   return (
     <div>
       <Navbar />
-      <ItemListContainer/>
+      <ItemListContainer greeting = {"Welcome"}/>
     </div>
-
 
   );
 }
